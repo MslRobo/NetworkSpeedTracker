@@ -8,7 +8,7 @@ Another goal is also to get more familiar with the raspberry pi 4 model b, and h
 
 # Tools
 This project will utilize:
-<list>
-  <ul>Raspberry Pi 4 Model B</ul>
-  <ul>Speedtest from Ookla at <a href="https://www.speedtest.net/">speedtest.net</a></ul>
-</list>
+<ul>
+  <li>Raspberry Pi 4 Model B</li>
+  <li>Speedtest from Ookla at <a href="https://www.speedtest.net/">speedtest.net</a></li>
+</ul>
