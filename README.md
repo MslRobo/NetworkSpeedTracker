@@ -7,4 +7,8 @@ The goal of the project is to gain more insight into how our home network perfor
 Another goal is also to get more familiar with the raspberry pi 4 model b, and how it can be used to set up automation tasks
 
 # Tools
-This project will utilize a raspberry pi 4 model b and the speedtesting standard from Ookla at <a href="https://www.speedtest.net/">speedtest.net</a>
+This project will utilize:
+<list>
+  <ul>Raspberry Pi 4 Model B</ul>
+  <ul>Speedtest from Ookla at <a href="https://www.speedtest.net/">speedtest.net</a></ul>
+</list>
